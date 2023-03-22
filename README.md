@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently pursuing PG-DBDA course From ACTS Pune in which i am learning **BIG Data Analytics Tools and Technologies **
 
-- :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
+- :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs on my linkedin Plateform , Here is my profile : https://www.linkedin.com/in/abhinav-singh95/
 
 - 💬 Ask me about **AWS , Linux , Python , SQL .**
 
