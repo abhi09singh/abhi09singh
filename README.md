@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
 
-- 💬 Ask me about **AWS ,Python, SQL , Power BI ,Linux**
+- 💬 Ask me about **AWS , Linux , Python , SQL .**
 
 - 📫 How to reach me **abhinavsingh.inbox@gmail.com**
 
