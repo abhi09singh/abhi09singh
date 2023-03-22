@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi09singh&label=Profile%20views&color=0e75b6&style=flat" alt="abhi09singh" /> </p>
 
-- :zap: I love math, programming, data science, and books
+- :zap: I love math, programming and  technologies.
 
 - 🌱 I’m addicted to learning and growing every day
 
-- 🌱 I’m currently learning **BIG Data Analytics Tools**
+- 🌱 I’m currently pursuing PG-DBDA course From ACTS Pune in which i am learning **BIG Data Analytics Tools and Technologies **
 
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **abhinavsingh.inbox@gmail.com**
 
-- ⚡ Fun fact **Learning is a never ending curve. You will be a learner untill you are promoted to next life & here we go again...**
+- ⚡ Fun fact **Learning is a never ending curve. You will be a learner untill you are promoted to next life ie till the full stop.**
 
 
 
