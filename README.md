@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **abhinavsingh.inbox@gmail.com**
 
-- ⚡ Fun fact **Learning is a never ending curve. You will be a learner untill you are promoted to next life ie till the full stop.**
+- ⚡ Fun fact **Learning is a never ending curve. You will be a learner untill you are promoted to next life and Loop continues.**
 
 
 
@@ -44,9 +44,5 @@ Here are some ideas to get you started:
   </a>
   
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi09singh&show_icons=true&locale=en&layout=compact" alt="abhi09singh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi09singh&show_icons=true&locale=en" alt="abhi09singh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi09singh&" alt="abhi09singh" /></p>
