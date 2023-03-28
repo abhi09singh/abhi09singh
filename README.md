@@ -20,7 +20,10 @@ Here are some ideas to get you started:
 
 - :zap: I love math, programming and  technologies.
 
-- 🌱 I’m addicted to learning and growing every day
+- 🌱  I’m addicted to learning and growing every day
+
+- 🌱  I'm an AWS Certified Solutions Architect – Associate .  (Verify at : https://www.credly.com/badges/d34c4a0d-bf79-482d-98fe-42c253a571f4/public_url)
+- 🌱  Also pased Microsoft Cloud Certification- Azure Fundamentals AZ 900 exam. (Verify at : https://www.credly.com/badges/08c4f893-7a26-4259-868f-34d0fa026a3d/public_url)
 
 - 🌱 I’m currently pursuing PG-DBDA course From ACTS Pune in which i am learning **BIG Data Analytics Tools and Technologies **
 
