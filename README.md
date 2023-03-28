@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🌱  I’m addicted to learning and growing every day
 
 - 🌱  I'm an AWS Certified Solutions Architect – Associate .  (Verify at : https://www.credly.com/badges/d34c4a0d-bf79-482d-98fe-42c253a571f4/public_url)
-- 🌱  Also pased Microsoft Cloud Certification- Azure Fundamentals AZ 900 exam. (Verify at : https://www.credly.com/badges/08c4f893-7a26-4259-868f-34d0fa026a3d/public_url)
+- 🌱  Also passed Microsoft Cloud Certification- Azure Fundamentals AZ 900 exam. (Verify at : https://www.credly.com/badges/08c4f893-7a26-4259-868f-34d0fa026a3d/public_url)
 
 - 🌱 I’m currently pursuing PG-DBDA course From ACTS Pune in which i am learning **BIG Data Analytics Tools and Technologies **
 
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://twitter.com/edith_1008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edith_1008" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhinav-singh95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav-singh95" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/edith_1045/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="edith_1045/videos" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@edith_1045/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="edith_1045/videos" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abhi09singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhi09singh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhi09singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhi09singh" height="30" width="40" /></a>
 </p>
