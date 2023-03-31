@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi09singh&label=Profile%20views&color=0e75b6&style=flat" alt="abhi09singh" /> </p>
 
-- :zap: I love math, programming and  technologies.
+- :zap: I love technologies and my core area of interest are Cloud , Devops And Data Engineering.
 
 - 🌱  I’m addicted to learning and growing every day
 
