@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🌱  I'm an AWS Certified Solutions Architect – Associate .  (Verify at : https://www.credly.com/badges/d34c4a0d-bf79-482d-98fe-42c253a571f4/public_url)
 - 🌱  Also passed Microsoft Cloud Certification- Azure Fundamentals AZ 900 exam. (Verify at : https://www.credly.com/badges/08c4f893-7a26-4259-868f-34d0fa026a3d/public_url)
 
-- 🌱 I’m currently pursuing PG-DBDA course From ACTS Pune in which i am learning **BIG Data Analytics Tools and Technologies **
+- 🌱 I’m currently pursuing PG-DBDA course From CDAC IACSD Pune in which i am learning **BIG Data Analytics Tools and Technologies **
 
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs on my linkedin Plateform , Here is my profile : https://www.linkedin.com/in/abhinav-singh95/
 
