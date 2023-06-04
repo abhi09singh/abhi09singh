@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/@edith_1045/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="edith_1045/videos" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abhi09singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhi09singh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhi09singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhi09singh" height="30" width="40" /></a>
+ <a href="https://www.codewars.com/users/abhi09singh" target="blank"><img align="center" src="https://www.codewars.com/users/abhi09singh/badges/small" alt="abhi09singh" height="300" width="540" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
